@@ -1,0 +1,16 @@
+:root {
+    /* Primary red color  */
+    --color-primary: #f60101cb;
+    
+      /* Primary white color  */
+    --color-primary-white: rgba(245, 239, 239, 0.966);
+    
+    /* Primary grey color  */
+    --color-primary-grey: rgb(50, 48, 48);
+    --color-primary-sky:rgb(164, 175, 224);
+  }
+
+h1{
+    color: var(--color-primary);
+    
+}
